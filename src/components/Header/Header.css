@@ -1,0 +1,25 @@
+.header {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  padding: 10px;
+}
+.bg-img {
+  padding: 50px 20px;
+}
+
+.header-transbox {
+  margin: 30px 150px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  padding: 10px;
+}
+
+.header h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  color: black;
+  font-size: 2em;
+}

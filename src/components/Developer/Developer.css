@@ -1,0 +1,31 @@
+.dev-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.developer {
+  border-radius: 15px;
+  text-align: center;
+  background-color: rgb(212, 236, 245);
+  padding: 10px;
+  box-shadow: 1px 1px 5px rgb(170, 169, 169);
+}
+.developer h4 {
+  font-size: 2em;
+}
+.developer p {
+  font-size: 1.2em;
+}
+.btn-primary {
+  background-color: blue;
+  color: rgb(212, 236, 245);
+  padding: 8px 20px;
+  transition: 0.5s;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+.btn-primary:hover {
+  background-color: rgb(212, 236, 245);
+  color: blue;
+}

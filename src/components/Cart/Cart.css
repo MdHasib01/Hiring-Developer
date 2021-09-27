@@ -1,0 +1,12 @@
+.cart {
+  text-align: center;
+  top: 10px;
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: rgb(164, 222, 243);
+  padding: 10px;
+  margin-left: 10px;
+}
+td {
+  border-bottom: 1px solid gray;
+}

@@ -1,0 +1,15 @@
+.body {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.developers {
+  margin-left: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 15px;
+}
+.list-head {
+  text-align: center;
+  text-decoration: underline;
+}
